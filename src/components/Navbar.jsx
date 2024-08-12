@@ -9,8 +9,8 @@ export const Navbar = () => {
 
     <>
     <nav className=' mb-20 flex items-center justify-between py-6'>
-        <div className='flex flex-shrink-0 items-center logoText'>
-            Vr
+        <div className='flex flex-shrink-0 items-center text-4xl logoText'>
+            Vr.
         </div>
         <div className='m-8 flex items-center gap-4 text-2xl'>
         <FaLinkedin/>
