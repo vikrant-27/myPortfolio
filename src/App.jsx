@@ -1,6 +1,7 @@
 import React from 'react'
 import { Navbar } from './components/Navbar'
 import { Hero } from './components/Hero'
+import { About } from './components/About'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     <div className='container mx-auto px-12'>
     <Navbar/> 
     <Hero/>
+    <About/>
     </div>
 
  
