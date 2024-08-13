@@ -1,6 +1,6 @@
 import React from 'react'
 import {HERO_CONTENT} from '../constants'
-import profilepic from '../assets/vkProfile.png'
+import profilepic from '../assets/vknew.png'
 
 export const Hero = () => {
   return (
@@ -17,7 +17,7 @@ export const Hero = () => {
             </div>
             <div className='w-full lg:w-1/2  lg:p-8'>
                <div className='md:ml-24' >
-                <img className='imgprop rounded-box' src={profilepic} alt="profilepic" />
+                <img className='md:imgprop rounded-full' src={profilepic} alt="profilepic" />
                </div>
             </div>
         </div>
