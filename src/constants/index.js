@@ -3,31 +3,31 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React , Django and back-end technologies like Node.js, MySQL, and MongoDB , along with cloud services such as AWS . My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile Full Stack Developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React.js, Python, Django, MySQL, and more. My journey in web development began with a deep curiosity about how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies. In my free time, I love watching anime and playing video games.`;
 
 export const EXPERIENCES = [
   {
     year: "2024 - Present",
     role: "Java Full Stack Developer Intern",
-    company: "Pisyst.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    company: "Pisyst India Pvt.Ltd.",
+    description: `Stay tuned for updates on my latest work!`,
+    technologies: ["Java", "SpringBoot", "React.js", "javascript"],
+  },
+  {
+    year: "2023 - 2024",
+    role: "Frontend Developer Intern",
+    company: "Adobe",
+    description: ` Honed my skills in HTML, CSS, and JavaScript. I had the opportunity to work on a variety of projects, including creating and maintaining websites, developing CRUD (Create, Read, Update, Delete) applications, and cloning existing websites to gain a deeper understanding of front-end development principles.`,
+    technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
   },
   {
     year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
-  {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    role: "Graphics Designer",
+    company: "Aashman foundation",
+    description: `Gained hands-on experience with industry-standard design tools such as Adobe Illustrator, Photoshop, and Canva. These tools enabled me to bring my design concepts to life, from initial sketches to final production-ready artwork.`,
+    technologies: ["Adobe Photoshop", "Illustrator", "Canva", "Figma"],
   },
 
 ];
