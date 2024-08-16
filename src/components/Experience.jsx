@@ -17,14 +17,14 @@ export const Experience = () => {
                     <motion.p  
                     whileInView={{opacity:1 , x:0}}
                     initial={{opacity:0 , x:-100}}
-                    transition={{duration:1.3}} 
+                    transition={{duration:0.9}} 
                     className='mb-2 text-sm text-neutral-400'>{experience.year}</motion.p>
                     </div>
 
                     <motion.div  
                     whileInView={{opacity:1 , x:0}}
                     initial={{opacity:0 , x:100}}
-                    transition={{duration:1.3}} className='w-full max-w-xl lg:w-3/4'>
+                    transition={{duration:0.9}} className='w-full max-w-xl lg:w-3/4'>
                         <h6>{experience.role} -{" "}
                             <span className='text-sm text-purple-100'>{experience.company}</span>
                         </h6>

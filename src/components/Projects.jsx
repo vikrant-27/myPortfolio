@@ -19,7 +19,7 @@ export const Projects = () => {
                 <motion.img 
                   whileInView={{opacity:1, x:0}}
                   initial={{opacity:0, x:-100}}
-                  transition={{duration:1.5}} 
+                  transition={{duration:0.9}} 
                   src={Project.image} 
                   width={150} 
                   height={150} 
@@ -30,7 +30,7 @@ export const Projects = () => {
               <motion.div 
                 whileInView={{opacity:1, x:0}}
                 initial={{opacity:0, x:100}}
-                transition={{duration:1.5}} 
+                transition={{duration:0.9}} 
                 className='w-full max-w-xl lg:w-3/4'>
                 <h6 className='mb-2 font-semibold flex'>
                   {Project.title} 
