@@ -19,7 +19,7 @@ export const EXPERIENCES = [
   {
     year: "2023 - 2024",
     role: "Frontend Developer Intern",
-    company: "Adobe",
+    company: "Octanet Software Services",
     description: ` Honed my skills in HTML, CSS, and JavaScript. I had the opportunity to work on a variety of projects, including creating and maintaining websites, developing CRUD (Create, Read, Update, Delete) applications, and cloning existing websites to gain a deeper understanding of front-end development principles.`,
     technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
   },
