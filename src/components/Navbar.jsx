@@ -13,10 +13,12 @@ export const Navbar = () => {
             Vr.
         </div>
         <div className='m-8 flex items-center gap-4 text-2xl cursor-pointer'>
-        <FaLinkedin/>
-        <FaGithub/>
-        <FaSquareXTwitter/>
-        <FaInstagram/>
+        <a target="_blank" href  ="https://www.linkedin.com/in/vikrantsarade"><FaLinkedin/></a>
+        <a target="_blank" href="https://github.com/vikrant-27"><FaGithub/></a>
+        <a target="_blank" href=""><FaSquareXTwitter/></a>
+        <a target="_blank" href=""><FaInstagram/></a>
+        
+  
         </div>
     </nav>
     </>

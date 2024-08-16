@@ -94,6 +94,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "A-301 ,  P Town   Maharashtra , IN - 264 ",
-  phoneNo: "+91 9503194686 ",
+  phoneNo: "+91 - 9503194686 ",
   email: "mailto:vikrant45.exe@gmail.com",
 };
