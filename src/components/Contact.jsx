@@ -20,7 +20,13 @@ export const Contact = () => {
                     initial={{opacity:0 , x:100}}
                     transition={{duration:1}} 
                     className='my-4'>{CONTACT.phoneNo}</motion.p>
-          <a href="#">{CONTACT.email}</a>
+          <a 
+          href={CONTACT.email} 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className='hover:underline text-purple-800' >
+          {CONTACT.email.replace("mailto:", "")}
+        </a>
         </div>
       </div>
     </div>
