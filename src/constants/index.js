@@ -38,7 +38,7 @@ export const PROJECTS = [
     title: "Skull Candy",
     image: project1,
     description:
-      "A website for purchasing headphones. This project includes features such as product listings, detailed product pages, a shopping cart, and secure checkout.",
+      "A website for purchasing headphones. This project includes features such as product listings, detailed product pages, a shopping cart, User Authentication , Email verification and a secure checkout and payment gateyway.",
     technologies: ["HTML", "CSS", "Python", "Django", "SQLlite", "Bootstrap"],
     githubLink:"https://github.com/vikrant-27/Skullcandy",
   },
