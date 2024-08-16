@@ -40,6 +40,7 @@ export const PROJECTS = [
     description:
       "A website for purchasing headphones. This project includes features such as product listings, detailed product pages, a shopping cart, and secure checkout.",
     technologies: ["HTML", "CSS", "Python", "Django", "SQLlite", "Bootstrap"],
+    githubLink:"https://github.com/vikrant-27/Skullcandy",
   },
   {
     title: "Resume Generator",
@@ -47,6 +48,7 @@ export const PROJECTS = [
     description:
       "A CV generator application where users can create and download their resumes",
     technologies: ["HTML", "CSS","Bootstrap", "Javascript", "MongoDb" , "Node Js " ,"Express Js" ],
+    githubLink:"https://github.com/vikrant-27/resume_generator",
   },
   {
     title: "Portfolio Website",
@@ -54,6 +56,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "Tailwind Css" , "React Js" ],
+    githubLink:"https://github.com/vikrant-27/myPortfolio",
   },
   {
     title: "Bookish",
@@ -61,6 +64,7 @@ export const PROJECTS = [
     description:
       "Developed a comprehensive Bookstore App, a web application that enables users to browse books seamlessly. This project leveraged the MERN stack",
     technologies: ["HTML", "Tailwind Css", "React Js", "Node Js", "Express Js", "MongoDb"],
+    githubLink:"https://github.com/vikrant-27/Bookish",
   },
   {
     title: "EMS",
@@ -68,6 +72,7 @@ export const PROJECTS = [
     description:
       "Developed an Employee Management System using Python with Django framework. Utilized CRUD operations to efficiently manage employee data, allowing for easy updating and manipulation of records.",
     technologies: ["HTML", "Css", "Bootstrap", "Python", "Django", "mySql"],
+    githubLink:"https://github.com/vikrant-27/crudDjango",
   },
   {
     title: "Task Management App",
@@ -75,6 +80,7 @@ export const PROJECTS = [
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Javascript", ],
+    githubLink:"https://github.com/vikrant-27/Task-manager",
   },
   {
     title: "Temperature Converter",
@@ -82,6 +88,7 @@ export const PROJECTS = [
     description:
       "A temperature converter web application built with JavaScript that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.",
     technologies: ["HTML", "CSS", "Javascript", ],
+    githubLink:"https://github.com/vikrant-27/temperature-converter",
   },
 ];
 
