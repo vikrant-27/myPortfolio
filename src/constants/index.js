@@ -11,10 +11,10 @@ export const ABOUT_TEXT = `I am a dedicated and versatile Full Stack Developer w
 export const EXPERIENCES = [
   {
     year: "2024 - Present",
-    role: "Java Full Stack Developer Intern",
+    role: "Full Stack Developer Intern",
     company: "Pisyst India Pvt.Ltd.",
     description: `Stay tuned for updates on my latest work!`,
-    technologies: ["Java", "SpringBoot", "React.js", "javascript"],
+    technologies: [ "React.js","javascript","PHP","Dart","Flutter"],
   },
   {
     year: "2023 - 2024",
