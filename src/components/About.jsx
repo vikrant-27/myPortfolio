@@ -1,7 +1,7 @@
 import React from 'react'
 import { ABOUT_TEXT } from '../constants'
 import{motion}from 'framer-motion'
-import img from '../assets/projects/img4.png'
+import img from '../assets/projects/orange1.jpg'
 
 export const About = () => {
   return (
@@ -20,7 +20,7 @@ export const About = () => {
           transition={{duration:0.9}}          //initially 0.5
           className='w-full lg:w-1/2 lg:p-8'>
             <div className='flex items-center justify-center'>
-             <img className='rounded-2xl' src={img} alt="about" />
+             <img className='rounded-2xl bannerImg' src={img} alt="about" />
             </div>    
           </motion.div>
           <motion.div
