@@ -14,15 +14,15 @@ export const EXPERIENCES = [
     role: "Full Stack Developer Intern",
     company: "Pisyst India Pvt.Ltd.",
     description: `Stay tuned for updates on my latest work!`,
-    technologies: [ "React.js","javascript","PHP","Dart","Flutter"],
+    technologies: ["javascript","PHP","CI4","AI/ML"],
   },
-  {
-    year: "2023 - 2024",
-    role: "Frontend Developer Intern",
-    company: "Octanet Software Services",
-    description: ` Honed my skills in HTML, CSS, and JavaScript. I had the opportunity to work on a variety of projects, including creating and maintaining websites, developing CRUD (Create, Read, Update, Delete) applications, and cloning existing websites to gain a deeper understanding of front-end development principles.`,
-    technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
-  },
+  // {
+  //   year: "2023 - 2024",
+  //   role: "Frontend Developer Intern",
+  //   company: "Octanet Software Services",
+  //   description: ` Honed my skills in HTML, CSS, and JavaScript. I had the opportunity to work on a variety of projects, including creating and maintaining websites, developing CRUD (Create, Read, Update, Delete) applications, and cloning existing websites to gain a deeper understanding of front-end development principles.`,
+  //   technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
+  // },
   {
     year: "2022 - 2023",
     role: "Graphics Designer",
